@@ -7,7 +7,7 @@ This repository contains the implementation of our Machine Learning project.
 
 ## Team Members
 - Member 1: Het Borad
-- Member 2: Lakshya Modi
+- Member 2: Lakshay Modi
 
 ## Project Components
 - Exploratory Data Analysis (EDA)
